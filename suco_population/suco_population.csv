@@ -1,0 +1,443 @@
+district,subdistrict,suco,population,male,female,households
+Aileu,Aileu Vila,Aissirimou,2206.0,1098.0,1108.0,326.0
+Aileu,Aileu Vila,Bandudato,1138.0,604.0,534.0,204.0
+Aileu,Aileu Vila,Fahiria,1823.0,962.0,861.0,301.0
+Aileu,Aileu Vila,Fatubossa,2033.0,1074.0,959.0,357.0
+Aileu,Aileu Vila,Hoholau,1365.0,705.0,660.0,218.0
+Aileu,Aileu Vila,Lahae,698.0,369.0,329.0,119.0
+Aileu,Aileu Vila,Lauisi,1420.0,736.0,684.0,212.0
+Aileu,Aileu Vila,Saboria,781.0,411.0,370.0,131.0
+Aileu,Aileu Vila,Seloi Craic,3585.0,1905.0,1680.0,550.0
+Aileu,Aileu Vila,Seloi Malere,4878.0,2534.0,2344.0,740.0
+Aileu,Aileu Vila,Suco Liurai,4122.0,2141.0,1981.0,688.0
+Aileu,Laulara,Cotolau,1296.0,649.0,647.0,183.0
+Aileu,Laulara,Fatisi,1357.0,730.0,627.0,210.0
+Aileu,Laulara,Madabeno,1543.0,760.0,783.0,241.0
+Aileu,Laulara,Talitu,2220.0,1150.0,1070.0,336.0
+Aileu,Laulara,Tohumeta,674.0,357.0,317.0,96.0
+Aileu,Lequidoe,Acubilitoho,864.0,440.0,424.0,131.0
+Aileu,Lequidoe,Bereleu,1280.0,661.0,619.0,205.0
+Aileu,Lequidoe,Betulau,670.0,360.0,310.0,99.0
+Aileu,Lequidoe,Fahisoi,1204.0,598.0,606.0,169.0
+Aileu,Lequidoe,Faturilau,719.0,388.0,331.0,99.0
+Aileu,Lequidoe,Manucassa,518.0,269.0,249.0,88.0
+Aileu,Lequidoe,Namolesso,1510.0,795.0,715.0,239.0
+Aileu,Remexio,Acumau,2689.0,1358.0,1331.0,391.0
+Aileu,Remexio,Fadabloco,1896.0,962.0,934.0,286.0
+Aileu,Remexio,Fahisoi,1290.0,631.0,659.0,193.0
+Aileu,Remexio,Faturasa,1125.0,565.0,560.0,165.0
+Aileu,Remexio,Hautoho,856.0,424.0,432.0,133.0
+Aileu,Remexio,Maumeta,532.0,268.0,264.0,89.0
+Aileu,Remexio,Suco Liurai,375.0,176.0,199.0,53.0
+Aileu,Remexio,Tulataqueo,2170.0,1103.0,1067.0,346.0
+Ainaro,Ainaro,Ainaro,5448.0,2756.0,2692.0,938.0
+Ainaro,Ainaro,Cassa,2916.0,1455.0,1461.0,508.0
+Ainaro,Ainaro,Manutaci,2110.0,1106.0,1004.0,323.0
+Ainaro,Ainaro,Mau-Nuno,1102.0,565.0,537.0,184.0
+Ainaro,Ainaro,Mau-Ulo,1492.0,751.0,741.0,300.0
+Ainaro,Ainaro,Soro,1949.0,988.0,961.0,320.0
+Ainaro,Ainaro,Suro-Craic,1104.0,562.0,542.0,182.0
+Ainaro,Hato-Udo,Foho-Ai-Lico,4939.0,2586.0,2353.0,963.0
+Ainaro,Hato-Udo,Leolima,5360.0,2720.0,2640.0,940.0
+Ainaro,Hato-Builico,Mauchiga,2458.0,1251.0,1207.0,411.0
+Ainaro,Hato-Builico,Mulo,6333.0,3199.0,3134.0,1104.0
+Ainaro,Hato-Builico,Nuno-Mogue,4175.0,2093.0,2082.0,654.0
+Ainaro,Maubisse,Aituto,5131.0,2622.0,2509.0,862.0
+Ainaro,Maubisse,Edi,2460.0,1265.0,1195.0,353.0
+Ainaro,Maubisse,Fatubessi,1491.0,779.0,712.0,233.0
+Ainaro,Maubisse,Horai-Quic,1704.0,831.0,873.0,281.0
+Ainaro,Maubisse,Liurai,744.0,399.0,345.0,134.0
+Ainaro,Maubisse,Manelobas,1276.0,651.0,625.0,200.0
+Ainaro,Maubisse,Manetú,2238.0,1164.0,1074.0,351.0
+Ainaro,Maubisse,Maubisse,6229.0,3173.0,3056.0,951.0
+Ainaro,Maubisse,Maulau,2477.0,1265.0,1212.0,409.0
+Baucau,Baguia,Afaloicai,1106.0,548.0,558.0,219.0
+Baucau,Baguia,Alawa Craik,1648.0,811.0,837.0,357.0
+Baucau,Baguia,Alawa Leten,996.0,508.0,488.0,216.0
+Baucau,Baguia,Defawasi,1012.0,477.0,535.0,205.0
+Baucau,Baguia,Hae Coni,2319.0,1243.0,1076.0,451.0
+Baucau,Baguia,Larisula,1190.0,605.0,585.0,250.0
+Baucau,Baguia,Lavateri,1455.0,742.0,713.0,309.0
+Baucau,Baguia,Osso Huna,838.0,417.0,421.0,166.0
+Baucau,Baguia,Samalari,1822.0,938.0,884.0,358.0
+Baucau,Baguia,Uacala,576.0,271.0,305.0,111.0
+Baucau,Baucau,Bahu,8156.0,4107.0,4049.0,1340.0
+Baucau,Baucau,Bucoli,2443.0,1190.0,1253.0,391.0
+Baucau,Baucau,Buibau,5838.0,2903.0,2935.0,952.0
+Baucau,Baucau,Buruma,3245.0,1677.0,1568.0,611.0
+Baucau,Baucau,Caibada,1984.0,982.0,1002.0,318.0
+Baucau,Baucau,Gariuai,4962.0,2653.0,2309.0,899.0
+Baucau,Baucau,Samalari,1499.0,757.0,742.0,319.0
+Baucau,Baucau,Seiçal,1982.0,1026.0,956.0,395.0
+Baucau,Baucau,Tirilolo,11369.0,5684.0,5685.0,1811.0
+Baucau,Baucau,Triloca,2345.0,1226.0,1119.0,370.0
+Baucau,Baucau,Uailili,3471.0,1763.0,1708.0,654.0
+Baucau,Laga,Atelari,1616.0,815.0,801.0,313.0
+Baucau,Laga,Libagua,729.0,357.0,372.0,133.0
+Baucau,Laga,Nunira,1772.0,918.0,854.0,308.0
+Baucau,Laga,Saelari,2439.0,1244.0,1195.0,382.0
+Baucau,Laga,Sagadate,2750.0,1360.0,1390.0,600.0
+Baucau,Laga,Samalari,2677.0,1318.0,1359.0,534.0
+Baucau,Laga,Soba,2853.0,1398.0,1455.0,482.0
+Baucau,Laga,Tequinomata,3523.0,1762.0,1761.0,778.0
+Baucau,Quelicai,Abafala,938.0,464.0,474.0,210.0
+Baucau,Quelicai,Abo,524.0,274.0,250.0,131.0
+Baucau,Quelicai,Afaçá,1204.0,600.0,604.0,218.0
+Baucau,Quelicai,Baguia,1456.0,745.0,711.0,287.0
+Baucau,Quelicai,Bualale,2057.0,1013.0,1044.0,438.0
+Baucau,Quelicai,Guruçá,1520.0,724.0,796.0,315.0
+Baucau,Quelicai,Lacoliu,1285.0,596.0,689.0,286.0
+Baucau,Quelicai,Laisorolai De Baixo,954.0,453.0,501.0,234.0
+Baucau,Quelicai,Laisorolai De Cima,1306.0,636.0,670.0,357.0
+Baucau,Quelicai,Lelalai,809.0,394.0,415.0,185.0
+Baucau,Quelicai,Letemumo,1379.0,672.0,707.0,265.0
+Baucau,Quelicai,Macalaco,919.0,442.0,477.0,237.0
+Baucau,Quelicai,Maluro,763.0,404.0,359.0,168.0
+Baucau,Quelicai,Namanei,1095.0,553.0,542.0,218.0
+Baucau,Quelicai,Uaitame,1241.0,618.0,623.0,257.0
+Baucau,Vemasse,Caicua,77.0,35.0,42.0,22.0
+Baucau,Vemasse,Loilubo,1282.0,664.0,618.0,280.0
+Baucau,Vemasse,Ossouala,1067.0,564.0,503.0,207.0
+Baucau,Vemasse,Ostico,1206.0,638.0,568.0,221.0
+Baucau,Vemasse,Uaigae,758.0,374.0,384.0,155.0
+Baucau,Vemasse,Uato-Lari,711.0,345.0,366.0,137.0
+Baucau,Vemasse,Vemasse,4542.0,2240.0,2302.0,795.0
+Baucau,Venilale,Bado-Ho'o,2664.0,1383.0,1281.0,506.0
+Baucau,Venilale,Baha Mori,1762.0,865.0,897.0,328.0
+Baucau,Venilale,Fatulia,2788.0,1371.0,1417.0,499.0
+Baucau,Venilale,Uai Oli,1088.0,543.0,545.0,245.0
+Baucau,Venilale,Uailaha,2643.0,1266.0,1377.0,446.0
+Baucau,Venilale,Uatu Haco,2729.0,1305.0,1424.0,436.0
+Baucau,Venilale,Uma Ana Ico,1294.0,663.0,631.0,229.0
+Baucau,Venilale,Uma Ana Ulo,2527.0,1286.0,1241.0,432.0
+Bobonaro,Atabae,Aidabaleten,5438.0,2804.0,2634.0,917.0
+Bobonaro,Atabae,Atabae,1679.0,871.0,808.0,302.0
+Bobonaro,Atabae,Hataz,2223.0,1079.0,1144.0,376.0
+Bobonaro,Atabae,Rairobo,1623.0,818.0,805.0,299.0
+Bobonaro,Balibo,Balibo Vila,3933.0,1891.0,2042.0,743.0
+Bobonaro,Balibo,Batugade,2678.0,1344.0,1334.0,504.0
+Bobonaro,Balibo,Cowa,1712.0,862.0,850.0,322.0
+Bobonaro,Balibo,Leohito,3159.0,1597.0,1562.0,608.0
+Bobonaro,Balibo,Leolima,2210.0,1159.0,1051.0,484.0
+Bobonaro,Balibo,Sanirin,2230.0,1138.0,1092.0,382.0
+Bobonaro,Bobonaro,Ai-Assa,1960.0,979.0,981.0,387.0
+Bobonaro,Bobonaro,Atu-Aben,860.0,408.0,452.0,144.0
+Bobonaro,Bobonaro,Bobonaro,1924.0,929.0,995.0,348.0
+Bobonaro,Bobonaro,Carabau,2136.0,1027.0,1109.0,358.0
+Bobonaro,Bobonaro,Colimau,1364.0,681.0,683.0,232.0
+Bobonaro,Bobonaro,Cota Bo'ot,228.0,112.0,116.0,34.0
+Bobonaro,Bobonaro,Ilat-Laun,1634.0,803.0,831.0,273.0
+Bobonaro,Bobonaro,Leber,1225.0,567.0,658.0,226.0
+Bobonaro,Bobonaro,Lour,961.0,459.0,502.0,193.0
+Bobonaro,Bobonaro,Lourba,1421.0,701.0,720.0,270.0
+Bobonaro,Bobonaro,Maliubu,2216.0,1067.0,1149.0,371.0
+Bobonaro,Bobonaro,Malilait,1373.0,652.0,721.0,255.0
+Bobonaro,Bobonaro,Molop,1620.0,807.0,813.0,340.0
+Bobonaro,Bobonaro,Oeleo,1192.0,598.0,594.0,194.0
+Bobonaro,Bobonaro,Sibuni,1148.0,581.0,567.0,195.0
+Bobonaro,Bobonaro,Soileco,1337.0,707.0,630.0,226.0
+Bobonaro,Bobonaro,Tapo,624.0,304.0,320.0,150.0
+Bobonaro,Bobonaro,Tebabui,1496.0,752.0,744.0,271.0
+Bobonaro,Cailaco,Atudara,1543.0,772.0,771.0,284.0
+Bobonaro,Cailaco,Dau Udo,500.0,264.0,236.0,94.0
+Bobonaro,Cailaco,Goulolo,1149.0,581.0,568.0,223.0
+Bobonaro,Cailaco,Guenu Lai,472.0,226.0,246.0,81.0
+Bobonaro,Cailaco,Manapa,1688.0,882.0,806.0,291.0
+Bobonaro,Cailaco,Meligo,3018.0,1499.0,1519.0,511.0
+Bobonaro,Cailaco,Purugua,931.0,472.0,459.0,168.0
+Bobonaro,Cailaco,Raiheu,1104.0,561.0,543.0,211.0
+Bobonaro,Lolotoe,Deudet,454.0,219.0,235.0,91.0
+Bobonaro,Lolotoe,Gildapil,1208.0,601.0,607.0,268.0
+Bobonaro,Lolotoe,Guda,966.0,481.0,485.0,186.0
+Bobonaro,Lolotoe,Lebos,966.0,492.0,474.0,203.0
+Bobonaro,Lolotoe,Lontas,612.0,295.0,317.0,138.0
+Bobonaro,Lolotoe,Lupal,1058.0,525.0,533.0,216.0
+Bobonaro,Lolotoe,Opa,1581.0,770.0,811.0,324.0
+Bobonaro,Maliana,Holsa,4972.0,2472.0,2500.0,863.0
+Bobonaro,Maliana,Lahomea,4604.0,2274.0,2330.0,762.0
+Bobonaro,Maliana,Odomau,4501.0,2260.0,2241.0,729.0
+Bobonaro,Maliana,Raifun,1623.0,809.0,814.0,256.0
+Bobonaro,Maliana,Ritabou,6617.0,3416.0,3201.0,1048.0
+Bobonaro,Maliana,Saburai,2268.0,1106.0,1162.0,471.0
+Bobonaro,Maliana,Tapo/Memo,4323.0,2201.0,2122.0,813.0
+Covalima,Fatululic,Fatululic,595.0,292.0,303.0,121.0
+Covalima,Fatululic,Taroman,1432.0,706.0,726.0,293.0
+Covalima,Fatumean,Belulic Leten,1712.0,860.0,852.0,347.0
+Covalima,Fatumean,Fatumea,787.0,391.0,396.0,171.0
+Covalima,Fatumean,Nanu,831.0,417.0,414.0,155.0
+Covalima,Fohorem,Dato Rua,803.0,394.0,409.0,164.0
+Covalima,Fohorem,Dato Tolu,1021.0,526.0,495.0,215.0
+Covalima,Fohorem,Fohoren,577.0,282.0,295.0,148.0
+Covalima,Fohorem,Lactos,1685.0,814.0,871.0,327.0
+Covalima,Maucatar,Belecasac,2368.0,1198.0,1170.0,378.0
+Covalima,Maucatar,Holpilat,1597.0,796.0,801.0,347.0
+Covalima,Maucatar,Matai,3013.0,1543.0,1470.0,549.0
+Covalima,Maucatar,Ogues,1917.0,960.0,957.0,377.0
+Covalima,Suai,Beco,3759.0,1933.0,1826.0,740.0
+Covalima,Suai,Camenaça,3681.0,1845.0,1836.0,693.0
+Covalima,Suai,Debos,11336.0,5719.0,5617.0,1946.0
+Covalima,Suai,Labarai,3275.0,1682.0,1593.0,578.0
+Covalima,Suai,Suai Loro,3764.0,1884.0,1880.0,833.0
+Covalima,Tilomar,Beiseuc,2267.0,1136.0,1131.0,540.0
+Covalima,Tilomar,Casabauc,1655.0,847.0,808.0,376.0
+Covalima,Tilomar,Lalawa,1439.0,742.0,697.0,329.0
+Covalima,Tilomar,Maudemo,2524.0,1299.0,1225.0,518.0
+Covalima,Zumalai,Fatuleto,766.0,361.0,405.0,155.0
+Covalima,Zumalai,Lepo,1302.0,660.0,642.0,179.0
+Covalima,Zumalai,Lour,2048.0,1056.0,992.0,372.0
+Covalima,Zumalai,Mape,313.0,154.0,159.0,59.0
+Covalima,Zumalai,Raimea,3444.0,1680.0,1764.0,672.0
+Covalima,Zumalai,Tashilin,2275.0,1191.0,1084.0,422.0
+Covalima,Zumalai,Ucecai,247.0,125.0,122.0,40.0
+Covalima,Zumalai,Zulo,2868.0,1475.0,1393.0,520.0
+Dili,Atauro,Beloi,1678.0,829.0,849.0,325.0
+Dili,Atauro,Biqueli,2076.0,1052.0,1024.0,418.0
+Dili,Atauro,Macadade,1632.0,803.0,829.0,343.0
+Dili,Atauro,Maquili,2062.0,1028.0,1034.0,361.0
+Dili,Atauro,Vila Maumeta,1826.0,957.0,869.0,301.0
+Dili,Cristo Rei,Balibar,1708.0,898.0,810.0,239.0
+Dili,Cristo Rei,Becora,22133.0,11393.0,10740.0,3160.0
+Dili,Cristo Rei,Bidau Santana,6482.0,3406.0,3076.0,929.0
+Dili,Cristo Rei,Camea,13481.0,7059.0,6422.0,1920.0
+Dili,Cristo Rei,Culu Hun,8117.0,4073.0,4044.0,1009.0
+Dili,Cristo Rei,Hera,8853.0,4610.0,4243.0,1339.0
+Dili,Cristo Rei,Meti Aut,2074.0,1070.0,1004.0,282.0
+Dili,Dom Aleixo,Bairro Pite,34993.0,18229.0,16764.0,5259.0
+Dili,Dom Aleixo,Comoro,76681.0,39835.0,36846.0,12261.0
+Dili,Dom Aleixo,Fatuhada,14890.0,7669.0,7221.0,2381.0
+Dili,Dom Aleixo,Kampung Alor,3531.0,1913.0,1618.0,678.0
+Dili,Metinaro,Duyung,4021.0,2100.0,1921.0,633.0
+Dili,Metinaro,Sabuli,1633.0,808.0,825.0,213.0
+Dili,Nain Feto,Acadiru Hun,3174.0,1572.0,1602.0,489.0
+Dili,Nain Feto,Bemori,4086.0,2024.0,2062.0,614.0
+Dili,Nain Feto,Bidau Lecidere,1208.0,668.0,540.0,162.0
+Dili,Nain Feto,Gricenfor,948.0,497.0,451.0,172.0
+Dili,Nain Feto,Lahane Oriental,13716.0,7149.0,6567.0,1982.0
+Dili,Nain Feto,Santa Cruz,9702.0,5157.0,4545.0,1480.0
+Dili,Vera Cruz,Caicoli,5067.0,2655.0,2412.0,934.0
+Dili,Vera Cruz,Colmera,2117.0,1158.0,959.0,313.0
+Dili,Vera Cruz,Dare,2994.0,1528.0,1466.0,437.0
+Dili,Vera Cruz,Lahane Ocidental,5178.0,2627.0,2551.0,625.0
+Dili,Vera Cruz,Mascarenhas,5828.0,3060.0,2768.0,896.0
+Dili,Vera Cruz,Motael,5039.0,2567.0,2472.0,766.0
+Dili,Vera Cruz,Vila Verde,10351.0,5283.0,5068.0,1564.0
+Ermera,Atsabe,Atara,2737.0,1384.0,1353.0,433.0
+Ermera,Atsabe,Baboi Craic,1965.0,1004.0,961.0,343.0
+Ermera,Atsabe,Baboi Leten,1106.0,577.0,529.0,185.0
+Ermera,Atsabe,Batu Mano,1034.0,510.0,524.0,167.0
+Ermera,Atsabe,Lacao,2041.0,988.0,1053.0,381.0
+Ermera,Atsabe,Laclo,1624.0,796.0,828.0,282.0
+Ermera,Atsabe,Laubono,1061.0,526.0,535.0,179.0
+Ermera,Atsabe,Leimea Leten,2234.0,1104.0,1130.0,392.0
+Ermera,Atsabe,Malabe,1566.0,799.0,767.0,256.0
+Ermera,Atsabe,Obulo,1022.0,470.0,552.0,188.0
+Ermera,Atsabe,Paramin,1683.0,820.0,863.0,287.0
+Ermera,Atsabe,Tiarlelo,490.0,245.0,245.0,87.0
+Ermera,Ermera,Estado,3022.0,1512.0,1510.0,521.0
+Ermera,Ermera,Humboe,2305.0,1181.0,1124.0,376.0
+Ermera,Ermera,Lauala,3150.0,1588.0,1562.0,503.0
+Ermera,Ermera,Leguimea,2828.0,1401.0,1427.0,469.0
+Ermera,Ermera,Mertuto,1973.0,996.0,977.0,330.0
+Ermera,Ermera,Poetete,8828.0,4405.0,4423.0,1356.0
+Ermera,Ermera,Ponilala,3372.0,1700.0,1672.0,533.0
+Ermera,Ermera,Raimerhei,2244.0,1081.0,1163.0,377.0
+Ermera,Ermera,Riheu,2039.0,1082.0,957.0,305.0
+Ermera,Ermera,Talimoro,6344.0,3220.0,3124.0,902.0
+Ermera,Hatulia,Aculau,2072.0,1065.0,1007.0,343.0
+Ermera,Hatulia,Ailelo,2556.0,1325.0,1231.0,384.0
+Ermera,Hatulia,Coliate-Leotelo,3938.0,2005.0,1933.0,665.0
+Ermera,Hatulia,Fatubessi,4754.0,2440.0,2314.0,756.0
+Ermera,Hatulia,Fatubolo,4735.0,2376.0,2359.0,701.0
+Ermera,Hatulia,Hatolia Vila,3049.0,1564.0,1485.0,510.0
+Ermera,Hatulia,Leimea-Craic,1286.0,652.0,634.0,247.0
+Ermera,Hatulia,Leimea-Sorinbalo,608.0,296.0,312.0,124.0
+Ermera,Hatulia,Lisapat,3676.0,1841.0,1835.0,560.0
+Ermera,Hatulia,Manusae,4524.0,2301.0,2223.0,713.0
+Ermera,Hatulia,Mau-Ubo,1690.0,788.0,902.0,267.0
+Ermera,Hatulia,Samara,563.0,287.0,276.0,101.0
+Ermera,Hatulia,Urahou,3327.0,1662.0,1665.0,565.0
+Ermera,Letefoho,Catraileten,1940.0,1022.0,918.0,366.0
+Ermera,Letefoho,Ducurai,4622.0,2373.0,2249.0,791.0
+Ermera,Letefoho,Eraulo,2098.0,1066.0,1032.0,363.0
+Ermera,Letefoho,Goulolo,1414.0,705.0,709.0,230.0
+Ermera,Letefoho,Hatugau,1675.0,809.0,866.0,314.0
+Ermera,Letefoho,Haupu,5034.0,2602.0,2432.0,903.0
+Ermera,Letefoho,Catrai Caraic,2659.0,1312.0,1347.0,470.0
+Ermera,Letefoho,Lauana,2686.0,1327.0,1359.0,496.0
+Ermera,Railaco,Deleso,503.0,254.0,249.0,85.0
+Ermera,Railaco,Fatuquero,2371.0,1230.0,1141.0,477.0
+Ermera,Railaco,Liho,2057.0,1107.0,950.0,290.0
+Ermera,Railaco,Matata,1373.0,712.0,661.0,229.0
+Ermera,Railaco,Railaco Craic,1435.0,779.0,656.0,193.0
+Ermera,Railaco,Railaco Leten,1379.0,698.0,681.0,205.0
+Ermera,Railaco,Samalete,1108.0,591.0,517.0,174.0
+Ermera,Railaco,Taraco,587.0,289.0,298.0,93.0
+Ermera,Railaco,Tocoluli,1315.0,690.0,625.0,204.0
+Lautem,Iliomar,Aelebere,808.0,372.0,436.0,165.0
+Lautem,Iliomar,Caenlio,1185.0,595.0,590.0,235.0
+Lautem,Iliomar,Fuat,575.0,268.0,307.0,96.0
+Lautem,Iliomar,Iliomar 1,1902.0,890.0,1012.0,416.0
+Lautem,Iliomar,Iliomar 2,1253.0,613.0,640.0,239.0
+Lautem,Iliomar,Tirilolo,1726.0,835.0,891.0,337.0
+Lautem,Lautém,Baduro,977.0,480.0,497.0,174.0
+Lautem,Lautém,Com,2353.0,1140.0,1213.0,482.0
+Lautem,Lautém,Daudere,1677.0,849.0,828.0,330.0
+Lautem,Lautém,Euquisi,931.0,472.0,459.0,187.0
+Lautem,Lautém,Ililai,998.0,504.0,494.0,127.0
+Lautem,Lautém,Maina 1,1362.0,678.0,684.0,245.0
+Lautem,Lautém,Maina 2,1951.0,940.0,1011.0,401.0
+Lautem,Lautém,Pairara,2164.0,1075.0,1089.0,371.0
+Lautem,Lautém,Parlamento,2342.0,1161.0,1181.0,426.0
+Lautem,Lautém,Serelau,1234.0,598.0,636.0,214.0
+Lautem,Lospalos,Bauro,2432.0,1206.0,1226.0,471.0
+Lautem,Lospalos,Cacavei,974.0,454.0,520.0,205.0
+Lautem,Lospalos,Fuiloro,16701.0,8197.0,8504.0,2683.0
+Lautem,Lospalos,Home,1933.0,992.0,941.0,328.0
+Lautem,Lospalos,Leuro,812.0,407.0,405.0,180.0
+Lautem,Lospalos,Lore 1,2589.0,1248.0,1341.0,541.0
+Lautem,Lospalos,Lore 2,811.0,375.0,436.0,163.0
+Lautem,Lospalos,Muapitine,1763.0,863.0,900.0,350.0
+Lautem,Lospalos,Raça,1162.0,594.0,568.0,226.0
+Lautem,Lospalos,Souro,1987.0,963.0,1024.0,445.0
+Lautem,Luro,Afabubu,439.0,206.0,233.0,78.0
+Lautem,Luro,Baricafa,1013.0,504.0,509.0,190.0
+Lautem,Luro,Cotamutu,1983.0,986.0,997.0,346.0
+Lautem,Luro,Lacawa,645.0,335.0,310.0,110.0
+Lautem,Luro,Luro,2233.0,1131.0,1102.0,415.0
+Lautem,Luro,Wairoque,811.0,422.0,389.0,175.0
+Lautem,Tutuala,Mehara,2262.0,1095.0,1167.0,443.0
+Lautem,Tutuala,Tutuala,1252.0,615.0,637.0,256.0
+Liquicia,Bazartete,Fahilebo,1190.0,625.0,565.0,200.0
+Liquicia,Bazartete,Fatumasi,1551.0,755.0,796.0,273.0
+Liquicia,Bazartete,Lauhata,3632.0,1853.0,1779.0,533.0
+Liquicia,Bazartete,Leorema,5409.0,2750.0,2659.0,986.0
+Liquicia,Bazartete,Maumeta,4306.0,2163.0,2143.0,677.0
+Liquicia,Bazartete,Metagou,1677.0,829.0,848.0,280.0
+Liquicia,Bazartete,Motaulun,2376.0,1227.0,1149.0,390.0
+Liquicia,Bazartete,Tibar,4211.0,2175.0,2036.0,702.0
+Liquicia,Bazartete,Ulmera,3527.0,1798.0,1729.0,544.0
+Liquicia,Liquiça,Açumanu,1911.0,978.0,933.0,328.0
+Liquicia,Liquiça,Darulete,1872.0,932.0,940.0,283.0
+Liquicia,Liquiça,Dato,9314.0,4650.0,4664.0,1407.0
+Liquicia,Liquiça,Hatuquessi,2899.0,1480.0,1419.0,506.0
+Liquicia,Liquiça,Leotala,2543.0,1244.0,1299.0,424.0
+Liquicia,Liquiça,Loidahar,2796.0,1368.0,1428.0,477.0
+Liquicia,Liquiça,Luculai,793.0,428.0,365.0,134.0
+Liquicia,Maubara,Gugleur,3716.0,1856.0,1860.0,691.0
+Liquicia,Maubara,Guiço,1983.0,1004.0,979.0,320.0
+Liquicia,Maubara,Lissadila,4559.0,2345.0,2214.0,749.0
+Liquicia,Maubara,Maubaralisa,1969.0,1024.0,945.0,354.0
+Liquicia,Maubara,Vatuboro,2791.0,1450.0,1341.0,493.0
+Liquicia,Maubara,Vatuvou,4226.0,2168.0,2058.0,693.0
+Liquicia,Maubara,Vaviquinia,2676.0,1334.0,1342.0,441.0
+Manatuto,Barique,Fatuwaque,1358.0,702.0,656.0,207.0
+Manatuto,Barique,Aubeon,1258.0,663.0,595.0,240.0
+Manatuto,Barique,Barique,438.0,220.0,218.0,86.0
+Manatuto,Barique,Manehat,688.0,369.0,319.0,135.0
+Manatuto,Barique,Uma Boco,1696.0,934.0,762.0,283.0
+Manatuto,Laclo,Hohorai,969.0,486.0,483.0,149.0
+Manatuto,Laclo,Lacumesac,2156.0,1106.0,1050.0,349.0
+Manatuto,Laclo,Uma Caduak,3433.0,1757.0,1676.0,540.0
+Manatuto,Laclo,Uma Naruc,1198.0,607.0,591.0,199.0
+Manatuto,Laclubar,Batara,2367.0,1137.0,1230.0,345.0
+Manatuto,Laclubar,Fatumaquerec,863.0,445.0,418.0,151.0
+Manatuto,Laclubar,Funar,1166.0,617.0,549.0,167.0
+Manatuto,Laclubar,Manelima,2195.0,1066.0,1129.0,313.0
+Manatuto,Laclubar,Orlalan,4841.0,2452.0,2389.0,686.0
+Manatuto,Laclubar,Sananain,618.0,314.0,304.0,112.0
+Manatuto,Laleia,Cairui,1847.0,929.0,918.0,369.0
+Manatuto,Laleia,Haturalan,995.0,523.0,472.0,190.0
+Manatuto,Laleia,Lifau,847.0,433.0,414.0,160.0
+Manatuto,Manatuto,Ailili,1553.0,814.0,739.0,264.0
+Manatuto,Manatuto,Aiteas,4020.0,2068.0,1952.0,668.0
+Manatuto,Manatuto,Cribas,2435.0,1203.0,1232.0,358.0
+Manatuto,Manatuto,Iliheu,1744.0,908.0,836.0,295.0
+Manatuto,Manatuto,Ma'Abat,750.0,379.0,371.0,117.0
+Manatuto,Manatuto,Sau,3890.0,1955.0,1935.0,598.0
+Manatuto,Soibada,Fatumaquerec,864.0,439.0,425.0,130.0
+Manatuto,Soibada,Leo-Hat,1113.0,557.0,556.0,159.0
+Manatuto,Soibada,Manlala,451.0,219.0,232.0,60.0
+Manatuto,Soibada,Maun-Fahe,537.0,271.0,266.0,83.0
+Manatuto,Soibada,Samoro,329.0,179.0,150.0,54.0
+Manufahi,Alas,Aituha,734.0,367.0,367.0,131.0
+Manufahi,Alas,Dotik,1922.0,1002.0,920.0,340.0
+Manufahi,Alas,Mahaquidan,1983.0,1040.0,943.0,382.0
+Manufahi,Alas,Taitudac,1788.0,900.0,888.0,301.0
+Manufahi,Alas,Uma Berloic,1457.0,767.0,690.0,251.0
+Manufahi,Fatuberlio,Bubussuso,701.0,355.0,346.0,143.0
+Manufahi,Fatuberlio,Caicassa,1072.0,557.0,515.0,199.0
+Manufahi,Fatuberlio,Clacuc,3102.0,1595.0,1507.0,484.0
+Manufahi,Fatuberlio,Fahinehan,1328.0,709.0,619.0,223.0
+Manufahi,Fatuberlio,Fatukahi,1213.0,670.0,543.0,203.0
+Manufahi,Same,Babulo,4468.0,2255.0,2213.0,708.0
+Manufahi,Same,Betano,5753.0,3028.0,2725.0,1054.0
+Manufahi,Same,Dai-Sua,2719.0,1359.0,1360.0,499.0
+Manufahi,Same,Grotu,810.0,405.0,405.0,163.0
+Manufahi,Same,Holarua,6871.0,3546.0,3325.0,1167.0
+Manufahi,Same,Letefoho,7573.0,3872.0,3701.0,1199.0
+Manufahi,Same,Rotuto,848.0,413.0,435.0,173.0
+Manufahi,Same,Tutuluro,1631.0,853.0,778.0,282.0
+Manufahi,Turiscai,Aitemua,817.0,413.0,404.0,107.0
+Manufahi,Turiscai,Beremana,808.0,428.0,380.0,110.0
+Manufahi,Turiscai,Caimauc,1122.0,604.0,518.0,176.0
+Manufahi,Turiscai,Fatucalo,393.0,209.0,184.0,59.0
+Manufahi,Turiscai,Foholau,255.0,135.0,120.0,32.0
+Manufahi,Turiscai,Lessuata,337.0,181.0,156.0,57.0
+Manufahi,Turiscai,Liurai,599.0,332.0,267.0,92.0
+Manufahi,Turiscai,Manumera,1584.0,846.0,738.0,229.0
+Manufahi,Turiscai,Matorec,457.0,244.0,213.0,64.0
+Manufahi,Turiscai,Mindelo,593.0,300.0,293.0,85.0
+Manufahi,Turiscai,Orana,753.0,365.0,388.0,110.0
+Oecusse,Nitibe,Banafi,1762.0,840.0,922.0,419.0
+Oecusse,Nitibe,Beneufe,2801.0,1452.0,1349.0,580.0
+Oecusse,Nitibe,Lelaufe,3754.0,1853.0,1901.0,796.0
+Oecusse,Nitibe,Suniufe,1817.0,891.0,926.0,448.0
+Oecusse,Nitibe,Usitaco,2139.0,1073.0,1066.0,462.0
+Oecusse,Oesilo,Bobometo,7308.0,3593.0,3715.0,1585.0
+Oecusse,Oesilo,Usitaqueno,833.0,382.0,451.0,216.0
+Oecusse,Oesilo,Usitasae,3340.0,1666.0,1674.0,737.0
+Oecusse,Pante Macassar,Bobocase,2693.0,1397.0,1296.0,505.0
+Oecusse,Pante Macassar,Costa,14350.0,7405.0,6945.0,2661.0
+Oecusse,Pante Macassar,Cunha,4493.0,2267.0,2226.0,918.0
+Oecusse,Pante Macassar,Lalisuc,2182.0,1104.0,1078.0,449.0
+Oecusse,Pante Macassar,Lifau,2505.0,1296.0,1209.0,469.0
+Oecusse,Pante Macassar,Naimeco,4809.0,2481.0,2328.0,923.0
+Oecusse,Pante Macassar,Nipane,1124.0,579.0,545.0,209.0
+Oecusse,Pante Macassar,Taiboco,5124.0,2567.0,2557.0,1151.0
+Oecusse,Passabe,Abani,6323.0,3109.0,3214.0,1455.0
+Oecusse,Passabe,Malelat,1556.0,754.0,802.0,362.0
+Viqueque,Lacluta,Ahic,1247.0,681.0,566.0,223.0
+Viqueque,Lacluta,Dilor,2804.0,1452.0,1352.0,462.0
+Viqueque,Lacluta,Laline,943.0,465.0,478.0,166.0
+Viqueque,Lacluta,Uma Tolu,1814.0,922.0,892.0,386.0
+Viqueque,Ossu,Builale,1137.0,574.0,563.0,222.0
+Viqueque,Ossu,Liaruca,1008.0,486.0,522.0,241.0
+Viqueque,Ossu,Loi-Huno,1272.0,638.0,634.0,280.0
+Viqueque,Ossu,Nahareca,2030.0,1041.0,989.0,469.0
+Viqueque,Ossu,Ossorua,2322.0,1147.0,1175.0,495.0
+Viqueque,Ossu,Ossu De Cima,4263.0,2062.0,2201.0,890.0
+Viqueque,Ossu,Uabubo,2717.0,1311.0,1406.0,578.0
+Viqueque,Ossu,Uaguia,1153.0,561.0,592.0,241.0
+Viqueque,Ossu,Uaibobo,1259.0,652.0,607.0,301.0
+Viqueque,Uato-Lari,Afaloicai,3980.0,2011.0,1969.0,757.0
+Viqueque,Uato-Lari,Babulo,2187.0,1113.0,1074.0,455.0
+Viqueque,Uato-Lari,Makadique,5391.0,2660.0,2731.0,1115.0
+Viqueque,Uato-Lari,Matahoi,4492.0,2189.0,2303.0,923.0
+Viqueque,Uato-Lari,Uaitame,1339.0,703.0,636.0,278.0
+Viqueque,Uato-Lari,Vessoru,1519.0,785.0,734.0,330.0
+Viqueque,Uatucarbau,Afaloicai,1349.0,657.0,692.0,308.0
+Viqueque,Uatucarbau,Bahatata,601.0,293.0,308.0,134.0
+Viqueque,Uatucarbau,Irabin De Baixo,2596.0,1272.0,1324.0,461.0
+Viqueque,Uatucarbau,Irabin De Cima,660.0,310.0,350.0,139.0
+Viqueque,Uatucarbau,Loi Ulo,652.0,298.0,354.0,126.0
+Viqueque,Uatucarbau,Uani Uma,1543.0,779.0,764.0,285.0
+Viqueque,Viqueque,Bahalarauain,2987.0,1540.0,1447.0,652.0
+Viqueque,Viqueque,Bibileo,3156.0,1610.0,1546.0,668.0
+Viqueque,Viqueque,Caraubalo,6594.0,3319.0,3275.0,1131.0
+Viqueque,Viqueque,Fatudere,645.0,339.0,306.0,130.0
+Viqueque,Viqueque,Luca,2400.0,1221.0,1179.0,488.0
+Viqueque,Viqueque,Maluru,816.0,388.0,428.0,181.0
+Viqueque,Viqueque,Uai-Mori,1142.0,578.0,564.0,242.0
+Viqueque,Viqueque,Uma Quic,1981.0,1017.0,964.0,402.0
+Viqueque,Viqueque,Uma Uain Craic,4454.0,2290.0,2164.0,782.0
+Viqueque,Viqueque,Uma Uain Leten,1580.0,767.0,813.0,356.0
