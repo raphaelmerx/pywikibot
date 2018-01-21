@@ -14,7 +14,7 @@ sr2015_ref = '<ref name="SR2015">{{webarchive |url=https://web.archive.org/web/2
 
 population_re = re.compile(r'align="center" \|\d+ <small>\(2010\)</small><ref name="SR2010">')
 paragraph_re = re.compile(r'Populasaun \d+ \(iha tinan 2010\)')
-portuguese_title_re = re.compile(r'\(iha \[\[lia-portugés\]\]: \'\'([\w ]+)\'\'\)')
+portuguese_title_re = re.compile(r'\(iha \[\[lia-portugés\]\]: \'\'([\w -]+)\'\'\)')
 
 population_by_suco = {}
 # build the dict suco_name -> population. Ignore duplicates
