@@ -28,11 +28,11 @@ with open('suco_population/suco_population.csv') as f:
             duplicates.add(suco_name)
             population_by_suco.pop(suco_name)
             continue
-        population_by_suco[suco_name] = line[3]
+        population_by_suco[suco_name.lower()] = line[3]
 
 
 def get_population(page):
-    suco_name = page.title()
+    suco_name = page.title().lower()
 
     if suco_name in population_by_suco:
         return population_by_suco[suco_name]
@@ -49,7 +49,7 @@ def get_portuguese_name(text):
         match = portuguese_title_re_2.search(text)
 
     if match is not None:
-        return match.groups()[0]
+        return match.groups()[0].lower()
     return None
 
 
